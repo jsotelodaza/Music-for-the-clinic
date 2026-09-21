@@ -1,0 +1,6 @@
+{
+  "name": "Pausa Clásica - Micro-descanso Hospitalario",
+  "description": "Fragmentos de música clásica de 1 minuto y respiración guiada para reducir el estrés del personal de salud durante turnos hospitalarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
